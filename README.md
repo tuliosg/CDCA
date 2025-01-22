@@ -1,1 +1,1 @@
-# CDCA
+# Ciência de Dados para Ciência Aberta  ## :folder: code  ## :folder: docs  ## :folder: data  ## :folder: notebooks  
