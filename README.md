@@ -1,1 +1,5 @@
-# Ci�ncia de Dados para Ci�ncia Aberta  ## :folder: code  ## :folder: docs  ## :folder: data  ## :folder: notebooks  
+# Ciência de Dados para Ciência Aberta
+## 📁 code  
+## 📁 docs  
+## 📁 data  
+## 📁 notebooks  
