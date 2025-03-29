@@ -1,0 +1,18 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 015d3db1-2fe2-469a-b30e-2d46155aae5a
+  title: Ciência de Dados para Ciência Aberta
+  description: >-
+    Este livro é uma introdução à Ciência de Dados para Ciência Aberta. Ele foi
+    escrito para ser um guia prático para cientistas que desejam aprender a
+    aplicar técnicas de Ciência de Dados em seus projetos de pesquisa.
+  keywords: [Ciência de Dados, Ciência Aberta]
+  authors: [Túlio Gois]
+  github: https://github.com/tuliosg/CDCA
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
